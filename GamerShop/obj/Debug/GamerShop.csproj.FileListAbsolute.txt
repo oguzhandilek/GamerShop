@@ -1,0 +1,7 @@
+D:\CSharpEgitim\GamerShop\GamerShop\bin\Debug\GamerShop.exe.config
+D:\CSharpEgitim\GamerShop\GamerShop\bin\Debug\GamerShop.exe
+D:\CSharpEgitim\GamerShop\GamerShop\bin\Debug\GamerShop.pdb
+D:\CSharpEgitim\GamerShop\GamerShop\obj\Debug\GamerShop.csproj.AssemblyReference.cache
+D:\CSharpEgitim\GamerShop\GamerShop\obj\Debug\GamerShop.csproj.CoreCompileInputs.cache
+D:\CSharpEgitim\GamerShop\GamerShop\obj\Debug\GamerShop.exe
+D:\CSharpEgitim\GamerShop\GamerShop\obj\Debug\GamerShop.pdb
